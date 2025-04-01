@@ -8,7 +8,8 @@ function calcular() {
    let num2 = parseFloat(document.getElementById('num2').value);
    
    //let operacion = prompt('Shoose a operation : suma, resta, multiplicacion,  division');
-   let operacion = document.getElementById('operacion').value;
+   
+   
    
    let resultado ;
    
